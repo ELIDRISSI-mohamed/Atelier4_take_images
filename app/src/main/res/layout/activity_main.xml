@@ -23,7 +23,6 @@
             app:layout_constraintEnd_toEndOf="parent" app:layout_constraintBottom_toTopOf="@+id/btnTakeImg"
             android:layout_marginTop="32dp"/>
     <TextView
-            android:text="TextView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" android:id="@+id/textInfo"
             app:layout_constraintStart_toStartOf="parent"
