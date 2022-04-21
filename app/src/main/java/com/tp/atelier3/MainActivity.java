@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
             // set imageView
             imageView.setImageBitmap(imgCapt);
             textInfo = findViewById(R.id.textInfo);
-            textInfo.setText("Tapez sur l'image pour le enregistrer !!");
+            textInfo.setText("Tapez sur l'image pour l'enregistrer !!");
         }
     }
 
